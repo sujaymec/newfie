@@ -76,6 +76,10 @@ a:focus {
 .no-max-width{max-width: none !important;}
 .opacity-0{opacity: 0;}
 
+/* Custom CSS */
+
+.page-header{display: none;}
+
 /* Colors 
 #225daa
 #103b72

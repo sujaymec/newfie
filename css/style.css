@@ -2007,6 +2007,7 @@ a:focus {
     margin: 0;
     color: #ffffff;
     font-size: 16px;
+    word-break: break-all;
 }
 
 .contact .contact-item:last-child {
